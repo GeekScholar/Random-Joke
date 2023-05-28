@@ -6,3 +6,4 @@ it contains, the following features
   
  if theres any suggestions, please shoot
  thanks for reading:)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de5c8b81-2699-482b-bcd5-12865371b0ed/deploy-status)](https://app.netlify.com/sites/dad-jokes-exist/deploys)
