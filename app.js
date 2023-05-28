@@ -15,3 +15,19 @@ async function getJock() {
   jokeDiv.innerHTML = jokeObj.joke;
   console.log(jokeData);
 }
+
+
+
+// **********************
+
+const touchButton = document.querySelector(".float-text");
+const card = document.querySelector(".float-card-info");
+const close = document.querySelector(".gg-close-r");
+
+touchButton.addEventListener("click", moveCard);
+close.addEventListener("click", moveCard);
+
+function moveCard() {
+  card.classList.toggle("active");
+}
+
